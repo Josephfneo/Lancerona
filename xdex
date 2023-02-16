@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>xdex</title>
+    <style>
+      body {
+        background-color: yellow;
+      }
+      #prostokat {
+        background-color: green;
+        color: red;
+        padding: 10px;
+        width: 200px;
+        height: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="prostokat">
+      FREEEEEEE 
+    </div>
+    <img src="mi.jpg">
+  </body>
+</html>
